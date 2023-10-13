@@ -1,0 +1,14 @@
+D:\C#\C#_Cviceni_a_teorie\pole\pole\bin\Debug\net7.0\pole.exe
+D:\C#\C#_Cviceni_a_teorie\pole\pole\bin\Debug\net7.0\pole.deps.json
+D:\C#\C#_Cviceni_a_teorie\pole\pole\bin\Debug\net7.0\pole.runtimeconfig.json
+D:\C#\C#_Cviceni_a_teorie\pole\pole\bin\Debug\net7.0\pole.dll
+D:\C#\C#_Cviceni_a_teorie\pole\pole\bin\Debug\net7.0\pole.pdb
+D:\C#\C#_Cviceni_a_teorie\pole\pole\obj\Debug\net7.0\pole.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#_Cviceni_a_teorie\pole\pole\obj\Debug\net7.0\pole.AssemblyInfoInputs.cache
+D:\C#\C#_Cviceni_a_teorie\pole\pole\obj\Debug\net7.0\pole.AssemblyInfo.cs
+D:\C#\C#_Cviceni_a_teorie\pole\pole\obj\Debug\net7.0\pole.csproj.CoreCompileInputs.cache
+D:\C#\C#_Cviceni_a_teorie\pole\pole\obj\Debug\net7.0\pole.dll
+D:\C#\C#_Cviceni_a_teorie\pole\pole\obj\Debug\net7.0\refint\pole.dll
+D:\C#\C#_Cviceni_a_teorie\pole\pole\obj\Debug\net7.0\pole.pdb
+D:\C#\C#_Cviceni_a_teorie\pole\pole\obj\Debug\net7.0\pole.genruntimeconfig.cache
+D:\C#\C#_Cviceni_a_teorie\pole\pole\obj\Debug\net7.0\ref\pole.dll
